@@ -55,23 +55,30 @@
 
 <h3> Screenshots </h3>
 
-![home](https://user-images.githubusercontent.com/61036755/95286634-8465ce80-0881-11eb-94b5-472381f132b9.png)
+![home]![image](https://github.com/user-attachments/assets/1fa81fd9-cd06-4ff5-b501-519eb565fbb3)
+![canc info]![image](https://github.com/user-attachments/assets/5f66bbe8-1433-4976-a998-dddba6affcaa)
 
-![canc info](https://user-images.githubusercontent.com/61036755/95286643-8b8cdc80-0881-11eb-85ec-75b2c8e46438.png)
 
-![diab info](https://user-images.githubusercontent.com/61036755/95286667-97789e80-0881-11eb-87da-b4c0c3e65cf8.png)
+![diab info]![image](https://github.com/user-attachments/assets/3d553f93-fc2c-48d1-9eb4-9853526d3a06)
 
-![heart info](https://user-images.githubusercontent.com/61036755/95286671-9b0c2580-0881-11eb-89ee-fdcd2b70f6c5.png)
 
-![diab pred](https://user-images.githubusercontent.com/61036755/95286693-a7907e00-0881-11eb-95c1-80e9d24cf0e4.png)
+![heart info]![image](https://github.com/user-attachments/assets/f4ddc0dc-6d19-4fc0-a015-d35612d18bf5)
 
-![heart pred](https://user-images.githubusercontent.com/61036755/95286706-ad865f00-0881-11eb-8cea-be74ea0ebc22.png)
 
-![pred res](https://user-images.githubusercontent.com/61036755/95286727-bbd47b00-0881-11eb-9ce1-555a33d3dc72.png)
+![diab pred]![image](https://github.com/user-attachments/assets/da8fd55c-6500-40a0-8e3a-9479a95d087e)
 
-![mala pred](https://user-images.githubusercontent.com/61036755/95286732-bf680200-0881-11eb-8548-52dfb945b050.png)
 
-![pneu pred](https://user-images.githubusercontent.com/61036755/95286741-c55de300-0881-11eb-9a38-0cfcdaec9d76.png)
+![heart pred]![image](https://github.com/user-attachments/assets/4972a695-42a4-47d0-8f90-ffede45e4dd6)
+
+
+![pred res]![image](https://github.com/user-attachments/assets/3d5d1556-1680-47d0-bd88-be68e51a3af0)
+
+
+![mala pred]![image](https://github.com/user-attachments/assets/e402e2bd-206e-4fb8-be80-2a62dabe1ced)
+
+
+![pneu pred]![image](https://github.com/user-attachments/assets/4900b8a3-1554-4183-b259-6f383cf406d3)
+
 
 
 <hr>
