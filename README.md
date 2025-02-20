@@ -55,7 +55,7 @@
 
 <h3> Screenshots </h3>
 
-![home]![image](https://github.com/user-attachments/assets/1fa81fd9-cd06-4ff5-b501-519eb565fbb3)
+[image](https://github.com/user-attachments/assets/1fa81fd9-cd06-4ff5-b501-519eb565fbb3)
 ![canc info]![image](https://github.com/user-attachments/assets/5f66bbe8-1433-4976-a998-dddba6affcaa)
 
 
